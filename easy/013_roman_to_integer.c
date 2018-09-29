@@ -175,6 +175,6 @@ int romanToIntMulti(char *s) {
 }
 
 int main(int argc, const char *argv[]) {
-    int result = romanToInt("III");
-    printf("III = %d\n", result);
+    int result = romanToInt("IVII");
+    printf("IVII = %d\n", result);
 }
